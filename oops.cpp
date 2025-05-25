@@ -143,7 +143,7 @@ int main () {
     editor->addSpace();
     editor->addText("this is my first project");
     editor->addNewline();
-    editor->addText("bye!");
+    
 
     editor->renderDocument();
 
