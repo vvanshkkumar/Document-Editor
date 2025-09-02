@@ -3,12 +3,9 @@
 
 
  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=📝+C%2B%2B+Document+Editor;Practice+Project+using+OOPS+%7C+LLD+%7C+SOLID" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=📝+C%2B%2B+Document+Editor;  Practice+Project+using+OOPS+%7C+LLD+%7C+SOLID" alt="Typing Animation" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="350" />
-</p>
 
 ---
 
